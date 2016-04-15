@@ -1,8 +1,5 @@
 package main;
 
-/**
- * Created by Taras on 15.04.2016.
- */
 import java.util.Scanner;
 
 import server.Server;
